@@ -1,6 +1,6 @@
-langchain
-langchain-community
-pypdf
-qdrant-client
-sentence-transformers
-anthropic
+anthropic>=0.82.0
+qdrant-client>=1.17.0
+sentence-transformers>=5.2.3
+pypdf>=6.7.1
+python-dotenv>=1.2.1
+reportlab>=4.4.10
